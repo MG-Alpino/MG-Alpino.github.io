@@ -11,6 +11,6 @@ On this site, you will find my lecture notes, coding projects, and a collection 
 Thank you for visiting, and I hope you find the resources here both informative and inspiring.
 
 ### NOTE
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I rock a great mustache;
+- I'm extremely loyal to my family;
 - Check my Counts =)
