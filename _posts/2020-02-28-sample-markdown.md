@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Machile Learning
+title: Machine Learning
 subtitle: Quantum Phase of XXZ Ground State via ML
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
