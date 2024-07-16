@@ -26,7 +26,7 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
   Teaching: 
-    - Quantum Mechanics: "https://beautifuljekyll.com"
+    - Quantum Mechanics: "QMPage"
     - Quantum Information: "infoQ"
   
 
