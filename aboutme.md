@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: A Student, A Physicist, A Boyfriend... and a Mage in DS (Zeerrooooo!!!)
+subtitle: A Student, A Physicist, A Boyfriend... and a Cruzeiro lover
 ---
 
-Welcome to my academic portfolio. My name is Marcos Gabriel Alpino, a master's student at the Federal University of Minas Gerais (UFMG), specializing in Quantum Information. My research interests lie particularly in the application of quantum information theory to strongly correlated systems.
+Welcome to my academic portfolio. I'm Marcos Gabriel Alpino, a master's student at the Federal University of Minas Gerais (UFMG), where I specialize in Quantum Information. My primary focus is on applying quantum information theory to explore the intricate behavior of strongly correlated systems.
 
-On this site, you will find my lecture notes, coding projects, and a collection of my scientific interests. I aim to contribute to the field by exploring and developing new insights into the quantum realm, particularly focusing on the complex interactions within strongly correlated systems.
+Here, you'll find a curated selection of my lecture notes, coding projects, and scientific pursuits. Through this space, I aim to share insights and contribute to the advancement of our understanding of quantum phenomena.
 
-Thank you for visiting, and I hope you find the resources here both informative and inspiring.
+Thank you for stopping by — I hope the materials here prove both informative and inspiring.
 
 ### NOTE
-- I rock a great mustache;
-- I'm extremely loyal to my family;
-- Check my Counts =)
+- Don’t forget to check out my counts and code =)
+- For any questions or comments, feel free to reach me at: **marcosgabrielfisica@gmail.com**
