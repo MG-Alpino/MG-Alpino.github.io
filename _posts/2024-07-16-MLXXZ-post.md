@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Classifying Quantum Phase Transitions via Machine Learning in the XXZ-1/2 Model"
+mathjax: true
 subtitle: "Poster presented at the III Workshop on Quantum Information and Thermodynamics – CBPF"
 date: 2025-06-12
 author: Marcos Gabriel Alpino
