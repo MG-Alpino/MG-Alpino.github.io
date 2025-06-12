@@ -20,17 +20,18 @@ tags: [quantum information, machine learning, XXZ model, tensor networks]
 ## VUMPS for the XXZ-1/2 Model
 
 The Hamiltonian of the system is given by:
+\
 $$
 H(\Delta) = -\sum_i \left(S^x_i S^x_{i+1} + S^y_i S^y_{i+1} + \Delta S^z_i S^z_{i+1} \right)
 $$
-
+\
 The ground state is computed using the VUMPS algorithm, which represents the infinite system as a uniform MPS. The energy is variationally minimized under a canonical form, updating tensors until convergence is reached.
 
 Key steps include:
 - Decomposing the wavefunction via SVD into MPS format.
-- Using variational principles to update tensors \( A_L, A_R, A_c \).
+- Using variational principles to update tensors $$ A_L, A_R, A_c $$.
 - Solving non-homogeneous linear equations for energy contributions.
-- Employing convergence criteria: \( \|A_L C - A_c\| < \epsilon \), etc.
+- Employing convergence criteria: $$ \|A_L C - A_c\| < \epsilon $$, etc.
 
 ---
 
@@ -64,7 +65,7 @@ Two algorithms were used:
 - **MLP accuracy**: ~90%
 - **k-NN accuracy**: ~98%
 - Smooth learning and accuracy curves demonstrate effective training.
-- The k-NN prediction probability as a function of \(\Delta\) maps out the phase diagram.
+- The k-NN prediction probability as a function of $$ \Delta$$ maps out the phase diagram.
 
 ---
 
