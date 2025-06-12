@@ -20,10 +20,9 @@ tags: [quantum information, machine learning, XXZ model, tensor networks]
 ## VUMPS for the XXZ-1/2 Model
 
 The Hamiltonian of the system is given by:
-
-\[
+$$
 H(\Delta) = -\sum_i \left(S^x_i S^x_{i+1} + S^y_i S^y_{i+1} + \Delta S^z_i S^z_{i+1} \right)
-\]
+$$
 
 The ground state is computed using the VUMPS algorithm, which represents the infinite system as a uniform MPS. The energy is variationally minimized under a canonical form, updating tensors until convergence is reached.
 
